@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WaD45 aka Wadomatic
-- 👀 I’m interested in learning everything about coding and creating websites, optimizing a website...
-- 🌱 I’m currently learning basics of web coding @ openclassrooms
+- 👀 always learning, hacking, modifying, customising, testing....
 - 💞️ I’m looking to collaborate on what you want (if i can do it)
 - 📫 How to reach me: contact@wadomatic.dev
 
