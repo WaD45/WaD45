@@ -6,8 +6,10 @@ Explorateur de la cybersécurité décontracté et Démystificateur Numérique
 
 Ce que je fais : 
 
-🎓 Formation et sensibilisation à la cybersécurité 
-🕵️‍♂️ Tests d'intrusion et de vulnérabilité 
+🎓 Formation et sensibilisation à la cybersécurité
+
+🕵️‍♂️ Tests d'intrusion et de vulnérabilité
+
 🔒 Audit et conseil en sécurité informatique 
 
 —— 
@@ -15,6 +17,7 @@ Ce que je fais :
 Mes références : 
 
 👨‍🎓 Formateur pour des centres de formation en cybersécurité 
+
 👨‍🏫 Professeur en sécurité informatique dans plusieurs établissements 
 
 —— 
@@ -22,10 +25,14 @@ Mes références :
 À propos de moi : 
 
 🕵️‍♂️ hacker éthique 
+
 🚀 Passionné par la cybersécurité, j'aime transmettre mes connaissances et vulgariser les concepts 
+
 🌍 Convaincu que la sécurité informatique est un enjeu majeur de notre époque
 
+—— 
 
+—— 
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [www.linkedin.com/in/b4rry](mailto:www.linkedin.com/in/b4rry)
