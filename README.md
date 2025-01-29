@@ -1,43 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barry
-=============================================================================================================================
+ХАКЕРСКИЙ ПРОФИЛЬ | 黑客档案
 
-Explorateur de la cybersécurité décontracté et Démystificateur Numérique
-------------------------------------------------------------------------
+WHOAMI | 谁我是?
 
-Ce que je fais : 
-
-🎓 Formation et sensibilisation à la cybersécurité
-
-🕵️‍♂️ Tests d'intrusion et de vulnérabilité
-
-🔒 Audit et conseil en sécurité informatique 
+🌍 Ju$t3 du C0d3.
+💀 X@k!ng. Кибернетика. OSINT.
+🌟 黑暗网络探索者
 
 —— 
 
-Mes références : 
+What 1 d0 | 我做什么?
 
-👨‍🎓 Formateur pour des centres de formation en cybersécurité 
+🔎 P3n3tr@t!0n t3$t!ng | 渗透测试
 
-👨‍🏫 Professeur en sécurité informatique dans plusieurs établissements 
+🔒 Сет3в@я р@зведк@ | 网络情报
 
-—— 
+🛡️ !nf0$3c R3$34rch | 网络安全研究
 
-À propos de moi : 
+🔧 R3v3r$3 Eng!n33r!ng | 逆向工程
 
-🕵️‍♂️ hacker éthique 
-
-🚀 Passionné par la cybersécurité, j'aime transmettre mes connaissances et vulgariser les concepts 
-
-🌍 Convaincu que la sécurité informatique est un enjeu majeur de notre époque
+✨ D@t@ Брe@ch An@lys!s | 数据泄露分析
 
 —— 
 
-—— 
-
-* 🌍  I'm based in Paris
-* ✉️  You can contact me at [www.linkedin.com/in/b4rry](mailto:www.linkedin.com/in/b4rry)
-* 🧠  I'm learning AI principles
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  CURR3NTLY 0FFW0RLD
 
 <a href="https://www.x.com/OmaticW4d" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OmaticW4d?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
