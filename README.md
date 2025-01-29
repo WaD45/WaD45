@@ -2,25 +2,21 @@
 
 WHOAMI | 谁我是?
 
-🌍 Ju$t3 du C0d3. 💀 X@k!ng. Кибернетика. OSINT. 🌟 黑暗网络探索者
+🌍 Ju$t3 du C0d3. 
+💀 X@k!ng. Кибернетика. OSINT. 
+🌟 黑暗网络探索者
 
 What 1 d0 | 我做什么?
 
-🔎 P3n3tr@t!0n t3$t!ng | 渗透测试🔒 Сет3в@я р@зведк@ | 网络情报🛡️ !nf0$3c R3$34rch | 网络安全研究🔧 R3v3r$3 Eng!n33r!ng | 逆向工程✨ D@t@ Брe@ch An@lys!s | 数据泄露分析
+🔎 P3n3tr@t!0n t3$t!ng | 渗透测试
 
-M4 7ooL$3T | 我的工具:
+🔒 Сет3в@я р@зведк@ | 网络情报
 
-🤖 K@l! L!nuX | Кали Линукс🔧 M3t@Spl01t | Метасплойт🕵️ Nm@p | Нмап🔨 Burp $u!t3 | Бурп Сьюит🔐 J0hn Th3 R!pp3r | Джон Риппер🛠️ !D@ Pr0 | IDA专业版
+🛡️ !nf0$3c R3$34rch | 网络安全研究
 
-🔗 C0nn3ct W!th M3 | 联系我
+🔧 R3v3r$3 Eng!n33r!ng | 逆向工程
 
-
-
-🛠️ Skills
-
-🌍 Socials
-
-—— 
+✨ D@t@ Брe@ch An@lys!s | 数据泄露分析
 
 * 🌍  CURR3NTLY 0FFW0RLD
 
