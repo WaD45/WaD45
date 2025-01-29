@@ -2,23 +2,23 @@
 
 WHOAMI | 谁我是?
 
-🌍 Ju$t3 du C0d3.
-💀 X@k!ng. Кибернетика. OSINT.
-🌟 黑暗网络探索者
-
-—— 
+🌍 Ju$t3 du C0d3. 💀 X@k!ng. Кибернетика. OSINT. 🌟 黑暗网络探索者
 
 What 1 d0 | 我做什么?
 
-🔎 P3n3tr@t!0n t3$t!ng | 渗透测试
+🔎 P3n3tr@t!0n t3$t!ng | 渗透测试🔒 Сет3в@я р@зведк@ | 网络情报🛡️ !nf0$3c R3$34rch | 网络安全研究🔧 R3v3r$3 Eng!n33r!ng | 逆向工程✨ D@t@ Брe@ch An@lys!s | 数据泄露分析
 
-🔒 Сет3в@я р@зведк@ | 网络情报
+M4 7ooL$3T | 我的工具:
 
-🛡️ !nf0$3c R3$34rch | 网络安全研究
+🤖 K@l! L!nuX | Кали Линукс🔧 M3t@Spl01t | Метасплойт🕵️ Nm@p | Нмап🔨 Burp $u!t3 | Бурп Сьюит🔐 J0hn Th3 R!pp3r | Джон Риппер🛠️ !D@ Pr0 | IDA专业版
 
-🔧 R3v3r$3 Eng!n33r!ng | 逆向工程
+🔗 C0nn3ct W!th M3 | 联系我
 
-✨ D@t@ Брe@ch An@lys!s | 数据泄露分析
+
+
+🛠️ Skills
+
+🌍 Socials
 
 —— 
 
@@ -43,3 +43,6 @@ src="https://img.shields.io/twitter/follow/OmaticW4d?logo=twitter&style=for-the-
 ### Badges
 
 <a href="https://github.com/WaD45" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaD45&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+🌟 "N0 L!m!t$. N0 L@w$. Ju$t Fr33d0m 0f !nf0." | "无界限，无法律，只有信息自由。"
