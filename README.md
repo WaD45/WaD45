@@ -128,9 +128,7 @@ location   : "[ ERROR: GEOLOC SPOOFED ]"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-WaD45-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d&color=00ff41)](https://github.com/WaD45)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-b4rry-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00bfff&labelColor=0d0d0d&color=00bfff)](https://linkedin.com/in/b4rry)
 [![Twitter/X](https://img.shields.io/badge/X__FEED-OmaticW4d-0d0d0d?style=for-the-badge&logo=x&logoColor=c0c0c0&labelColor=0d0d0d&color=c0c0c0)](https://x.com/OmaticW4d)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-WaD45-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff0040&labelColor=0d0d0d&color=ff0040)](https://tryhackme.com)
 
 </div>
 
